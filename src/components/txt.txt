@@ -1,0 +1,25 @@
+<Route path="/business" element={<News pageSize={6} country='in' catrgory="business" />} />
+<Route path="/entertainment" element={<News pageSize={6} country='in' catrgory="entertainment" />} />
+<Route path="/general" element={<News pageSize={6} country='in' catrgory="general" />} />
+<Route path="/health" element={<News pageSize={6} country='in' catrgory="health" />} />
+<Route path="/science" element={<News pageSize={6} country='in' catrgory="science" />} />
+<Route path="/sports" element={<News pageSize={6} country='in' catrgory="sports" />} />
+<Route path="/technology" element={<News pageSize={6} country='in' catrgory="technology" />} />
+
+<Route path="expenses" element={<Expenses />} />
+
+<News pageSize={6} country='in' catrgory="business
+<News pageSize={6} country='in' catrgory="entertainment
+<News pageSize={6} country='in' catrgory="general
+<News pageSize={6} country='in' catrgory="health
+<News pageSize={6} country='in' catrgory="science
+<News pageSize={6} country='in' catrgory="sports
+<News pageSize={6} country='in' catrgory="technology
+
+key="business"
+key="entertainment"
+key="general"
+key="health"
+key="science"
+key="sports"
+key="technology"
